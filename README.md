@@ -13,5 +13,18 @@ README
 
 [Chai is a BDD / TDD assertion library for node](http://chaijs.com/)
 
+[Unit Testing Best Practices in AngularJS](andyshora.com/unit-testing-best-practices-angularjs.html)
+
+[Karma and Mocha for AngularJS testing](bendetat.com/karma-and-mocha-for-angular-testing.html)
+
+[docsAngular](https://docs.angularjs.org/guide/unit-testing)
+
+[ng-newsletter](http://www.ng-newsletter.com/advent2013/#!/day/19)
+
+[Stackoverflow](http://stackoverflow.com/questions/16565531/angularjs-unit-testing-a-factory-that-has-dependencies)
+
+[Stackoverflow](http://stackoverflow.com/questions/15924136/test-angularjs-factory-function-with-jasmine)
+
+
 
 #### 13 August 2015 Oleg G.Kapranov
