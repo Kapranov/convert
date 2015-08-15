@@ -1,5 +1,6 @@
 README
 ------
+[The completebook on AngularJS](https://www.ng-book.com/)
 
 [Getting Started with Node.js and Mocha](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha)
 
